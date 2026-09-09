@@ -25,16 +25,16 @@ Pipeline de datos end-to-end para la ingesta, limpieza, almacenamiento y visuali
 * **Tecnologías:** Python, APIs REST, Pandas, PostgreSQL, Power BI, Git.
 * 👉 [Ver repositorio](https://github.com/daniela-perea/argentina-energy-data-pipeline)
 
-### ⛽ Producción de Gas Natural en Argentina
-Análisis exploratorio de datos (EDA) y modelado predictivo de series temporales de producción energética.
-* **Tecnologías:** Python, Pandas, Matplotlib/Seaborn, Scikit-Learn.
-* 👉 [Ver repositorio](https://github.com/daniela-perea/Data-Science--Ingenias)
-
 ### 🚲 EcoBici — Segmentación de Usuarios y Predicción de Churn
 Análisis de datos de movilidad urbana para segmentar usuarios, identificar patrones de comportamiento y desarrollar un modelo
 predictivo de churn.
 * **Tecnologías:** Python, Pandas, NumPy, Scikit-Learn, SQL, Machine Learning, Visualización de Datos.
 * 👉 [Ver repositorio](https://github.com/daniela-perea/Machine-Learning--1C2026)
+
+### ⛽ Producción de Gas Natural en Argentina
+Análisis exploratorio de datos (EDA) y modelado predictivo de series temporales de producción energética.
+* **Tecnologías:** Python, Pandas, Matplotlib/Seaborn, Scikit-Learn.
+* 👉 [Ver repositorio](https://github.com/daniela-perea/Data-Science--Ingenias)
 
 ---
 
