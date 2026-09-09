@@ -34,7 +34,7 @@ predictivo de churn.
 ### ⛽ Producción de Gas Natural en Argentina
 Análisis exploratorio de datos (EDA) y modelado predictivo de series temporales de producción energética.
 * **Tecnologías:** Python, Pandas, Matplotlib/Seaborn, Scikit-Learn.
-* 👉 [Ver repositorio](https://github.com/daniela-perea/Gas_Natural_Argentina)
+* 👉 [Ver repositorio](https://github.com/daniela-perea/gas-natural-argentina)
 
 ---
 
