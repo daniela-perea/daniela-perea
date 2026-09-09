@@ -30,10 +30,11 @@ Análisis exploratorio de datos (EDA) y modelado predictivo de series temporales
 * **Tecnologías:** Python, Pandas, Matplotlib/Seaborn, Scikit-Learn.
 * 👉 [Ver repositorio](https://github.com/daniela-perea/Data-Science--Ingenias)
 
-### 📋 Renova
-Modelado de procesos de negocio y arquitectura de información para una plataforma de renovación de recetas digitales.
-* **Tecnologías:** Modelado de Procesos (BPMN), SQL, Análisis de Requerimientos.
-* 👉 [Ver repositorio](https://github.com/daniela-perea/renova-project)
+### 🚲 EcoBici — Segmentación de Usuarios y Predicción de Churn
+Análisis de datos de movilidad urbana para segmentar usuarios, identificar patrones de comportamiento y desarrollar un modelo
+predictivo de churn.
+* **Tecnologías:** Python, Pandas, NumPy, Scikit-Learn, SQL, Machine Learning, Visualización de Datos.
+* 👉 [Ver repositorio](https://github.com/daniela-perea/Machine-Learning--1C2026)
 
 ---
 
