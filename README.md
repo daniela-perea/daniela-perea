@@ -29,7 +29,7 @@ Pipeline de datos end-to-end para la ingesta, limpieza, almacenamiento y visuali
 Análisis de datos de movilidad urbana para segmentar usuarios, identificar patrones de comportamiento y desarrollar un modelo
 predictivo de churn.
 * **Tecnologías:** Python, Pandas, NumPy, Scikit-Learn, SQL, Machine Learning, Visualización de Datos.
-* 👉 [Ver repositorio](https://github.com/daniela-perea/Ecobici)
+* 👉 [Ver repositorio](https://github.com/daniela-perea/ecobici-user-segmentation-churn)
 
 ### ⛽ Producción de Gas Natural en Argentina
 Análisis exploratorio de datos (EDA) y modelado predictivo de series temporales de producción energética.
