@@ -2,7 +2,7 @@
 
 ### Data Engineering Junior | Python · SQL · ETL · APIs · PostgreSQL
 
-Estudiante de Ciencia de Datos e IA en transición desde el diseño de producto (UX/UI) hacia la Ingeniería de Datos.
+Estudiante de Ciencia de Datos e IA en transición desde el diseño de producto (UX/UI) hacia la Ingeniería de Datos, con foco en Python, SQL, ETL, APIs y procesamiento de datos.
 
 Combino formación técnica en procesamiento e infraestructura de datos con experiencia profesional colaborando con equipos de Producto, Ingeniería y QA.
 
