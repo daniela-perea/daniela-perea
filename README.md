@@ -28,7 +28,7 @@ Pipeline de datos end-to-end para la ingesta, limpieza, almacenamiento y visuali
 ### ⛽ Producción de Gas Natural en Argentina
 Análisis exploratorio de datos (EDA) y modelado predictivo de series temporales de producción energética.
 * **Tecnologías:** Python, Pandas, Matplotlib/Seaborn, Scikit-Learn.
-* 👉 [Ver repositorio](https://github.com/daniela-perea/natural-gas-argentina)
+* 👉 [Ver repositorio](https://github.com/daniela-perea/Data-Science--Ingenias)
 
 ### 📋 Renova
 Modelado de procesos de negocio y arquitectura de información para una plataforma de renovación de recetas digitales.
