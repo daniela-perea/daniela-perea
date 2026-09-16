@@ -1,4 +1,4 @@
-# ¡Hola! Soy Daniela Perea 👋
+# ¡Hola! Soy Daniela 👋
 
 ### Data Engineering Junior | Python · SQL · ETL · APIs · PostgreSQL
 
